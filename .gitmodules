@@ -1,0 +1,9 @@
+[submodule "FIG/digilent_arty/dut/soft_riscv"]
+	path = FIG/digilent_arty/dut/sw/soft_riscv
+	url = https://github.com/AEW2015/soft_riscv.git
+[submodule "FIG/digilent_arty/dut/hdl/kronos"]
+	path = FIG/digilent_arty/dut/kronos
+	url = https://github.com/SonalPinto/kronos.git
+[submodule "FIG/digilent_arty/dut/hdl/picorv32"]
+	path = FIG/digilent_arty/dut/picorv32
+	url = https://github.com/YosysHQ/picorv32.git

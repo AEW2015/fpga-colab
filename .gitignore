@@ -1,0 +1,4 @@
+FIG/digilent_arty/dut/vivado_project/
+*.bin
+*.bit
+*.edf
