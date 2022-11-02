@@ -2,3 +2,8 @@ FIG/digilent_arty/dut/vivado_project/
 *.bin
 *.bit
 *.edf
+FIG/digilent_arty/fault_injection/.ipynb_checkpoints/
+FIG/digilent_arty/fault_injection/tcl_client/.ipynb_checkpoints/
+FIG/digilent_arty/fault_injection/tcl_client/__pycache__/
+FIG/digilent_arty/tmr/vivado_project/
+*.dcp
