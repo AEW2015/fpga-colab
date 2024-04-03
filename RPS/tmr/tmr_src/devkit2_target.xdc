@@ -27,9 +27,9 @@ set_property IOSTANDARD LVCMOS18 [get_ports {high_output[0]}]
 set_property PULLUP true [get_ports tx]
 set_property PULLUP true [get_ports rx]
 
-set_property OFFCHIP_TERM NONE [get_ports tx]
 set_property SLEW FAST [get_ports tx]
 
 create_pblock uart_pb
 add_cells_to_pblock [get_pblocks uart_pb] [get_cells -quiet [list gen_uart.uart_port_i/TX_i/TX_i/tx_reg_reg_TMR_0_Q_VOTER]]
 resize_pblock [get_pblocks uart_pb] -add {SLICE_X48Y3:SLICE_X48Y5}
+
