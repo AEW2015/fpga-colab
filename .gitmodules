@@ -7,3 +7,24 @@
 [submodule "FIG/digilent_arty/dut/hdl/picorv32"]
 	path = FIG/digilent_arty/dut/picorv32
 	url = https://github.com/YosysHQ/picorv32.git
+[submodule "RPS/tmr/spydrnet-tmr"]
+	path = RPS/tmr/spydrnet-tmr
+	url = https://github.com/byuccl/spydrnet-tmr.git
+[submodule "RPS/tmr/spydrnet"]
+	path = RPS/tmr/spydrnet
+	url = https://github.com/byuccl/spydrnet.git
+[submodule "RPS/duts/vex/scala/VexRiscv"]
+	path = RPS/duts/vex/scala/VexRiscv
+	url = https://github.com/SpinalHDL/VexRiscv.git
+[submodule "RPS/duts/taiga/Taiga"]
+	path = RPS/duts/taiga/Taiga
+	url = https://gitlab.com/sfu-rcl/Taiga.git
+[submodule "RPS/duts/riscv_sw/soft_riscv"]
+	path = RPS/duts/riscv_sw/soft_riscv
+	url = https://github.com/AEW2015/soft_riscv.git
+[submodule "RPS/duts/pico/picorv32"]
+	path = RPS/duts/pico/picorv32
+	url = https://github.com/YosysHQ/picorv32.git
+[submodule "RPS/duts/kron/kronos"]
+	path = RPS/duts/kron/kronos
+	url = https://github.com/SonalPinto/kronos.git
