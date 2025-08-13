@@ -1,4 +1,4 @@
-# Hackaday Supercon Space FGPA Demo
+# Hackaday Supercon Space FPGA Demo
 
 Release v0.0.3 has all pre-compiled files.
 
